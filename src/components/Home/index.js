@@ -1,14 +1,14 @@
 import { useEffect, useState } from 'react';
 import Loader from 'react-loaders';
 import { Link } from 'react-router-dom';
-import LogoE from '../../assets/images/E.png';
+import LogoA from '../../assets/images/A.png';
 import AnimatedLetters from '../AnimatedLetters';
 import './index.scss';
 import Logo from './Logo';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const nameArray = "rik, ".split("");
+    const nameArray = "drian, ".split("");
     const jobArray = "software engineer.".split("");
 
     useEffect(() => {
@@ -31,12 +31,12 @@ const Home = () => {
                 <br /> 
                 <span className = {`${letterClass} _10`}>I</span>
                 <span className = {`${letterClass} _11`}>'m</span>
-                <img src={LogoE} alt = "developer" />
+                <img src={LogoA} alt = "developer" />
                 <AnimatedLetters letterClass={letterClass} strArray={nameArray} idx={12} />
                 <br /> 
                 <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={15} /> 
                 </h1>
-                <h2>Computer Engineering & AI, 2026 at McGill University</h2>
+                <h2>Computer Science , 2027 at California Polytechnic State University, San Luis Obispo</h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
             </div>
             <Logo className="Home"/>
