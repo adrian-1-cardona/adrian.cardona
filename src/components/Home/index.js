@@ -7,7 +7,7 @@ import Logo from './Logo';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const nameArray = "drian, ".split("");
+    const nameArray = "Adrian, ".split("");
     const jobArray = "software engineer.".split("");
 
     useEffect(() => {
@@ -29,7 +29,7 @@ const Home = () => {
                 <span className = {`${letterClass} _9`}>i</span>
                 <br /> 
                 <span className = {`${letterClass} _10`}>I</span>
-                <span className = {`${letterClass} _11`}>'m</span>
+                <span className = {`${letterClass} _11`}>'m </span>
                 <AnimatedLetters letterClass={letterClass} strArray={nameArray} idx={12} />
                 <br /> 
                 <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={15} /> 
