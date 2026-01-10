@@ -35,6 +35,38 @@
     background-color: #2ecc71;
   }
 
+  .javascript-progress .progress {
+    background-color: #f0db4f;
+  }
+  .typescript-progress .progress {
+    background-color: #3178c6;
+  }
+  .java-progress .progress {
+    background-color: #b07219;
+  }
+  .c-progress .progress {
+    background-color: #555555;
+  }
+  .cpp-progress .progress {
+    background-color: #f34b7d;
+  }
+
+  .tailwind-progress .progress {
+    background-color: #38bdf8;
+  } 
+  .nextjs-progress .progress {
+    background-color: #000000;
+  }
+  .scss-progress .progress {
+    background-color: #cd6799;
+  } 
+
+  .vite-progress .progress {
+    background-color: #646cff;
+  }
+  
+
+
   .sql-progress .progress {
     background-color: #8e44ad;
   }

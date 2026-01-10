@@ -12,6 +12,8 @@ const TechList = () => {
     { name: "Jira", progress: 50, className: "jira-progress", years: 1 },
     { name: "Microsoft Office", progress: 50, className: "microsoftoffice-progress", years: 4 },
     { name: "Jupyter Notebooks", progress: 100, className: "jupyter-progress", years: 1 },
+    { name: "Vite", progress: 100, className: "vite-progress", years: 1 },
+    {}
   ]);
 
   return (
