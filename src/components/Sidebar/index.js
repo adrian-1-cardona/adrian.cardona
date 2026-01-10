@@ -35,25 +35,16 @@ const Sidebar = () => {
             </nav>
             <ul>
                 <li>
-                    <a target = "_blank" rel = "noreferrer" href = "https://www.linkedin.com/in/erik-cupsa/">
+                    <a target = "_blank" rel = "noreferrer" href = "https://www.linkedin.com/in/adrian-cardona/">
                         <FontAwesomeIcon icon={faLinkedin} color = "#4d4d4e" />
                     </a>
                 </li>
                 <li>
-                    <a target = "_blank" rel = "noreferrer" href = "https://github.com/Erik-Cupsa">
+                    <a target = "_blank" rel = "noreferrer" href = "https://github.com/adrian-1-cardona">
                         <FontAwesomeIcon icon={faGithub} color = "#4d4d4e" />
                     </a>
                 </li>
-                <li>
-                    <a target = "_blank" rel = "noreferrer" href = "https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg">
-                        <FontAwesomeIcon icon={faYoutube} color = "#4d4d4e" />
-                    </a>
-                </li>
-                <li>
-                    <a target = "_blank" rel = "noreferrer" href = "https://www.instagram.com/swerikcodes/">
-                        <FontAwesomeIcon icon={faInstagram} color = "#4d4d4e" />
-                    </a>
-                </li>
+
             </ul>
             <FontAwesomeIcon onClick={() => setShowNav(true)} icon={faBars} color="#ffd700" size="3x" className="hamburger-icon" />
         </div>
