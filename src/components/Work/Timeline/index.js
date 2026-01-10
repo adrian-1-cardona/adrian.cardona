@@ -3,32 +3,32 @@ import './index.scss';
 
 const Timeline = () => {
   const [events, setEvents] = useState([
+
     {
-      date: 'May-September 2024',
-      title: 'TRC Consutling, Inc.',
+      date: 'July 2025-Present',
+      title: 'Foundation of California Community Colleges',
       description: [
-        'Engineered Large Language Models (LLMs), including <b>BERT</b> and <b>Attention Models</b>, to analyze <b>software engineering requirements</b> and generate accurate dependency lists, improving project planning efficiency by <b>37%</b>',
-        'Analyzed 1200+ <b>software requirements</b> monthly using <b>scikit-learn</b> (classification models), <b>spaCy</b>, and <b>NLTK</b> in <b>Python</b>, saving the company $20,000 annually by decreasing project lead times',
-        'Integrated <b>TF-IDF</b> vectorization to detect similarities in <b>software requirements</b>, focusing on preprocessing, model training, hyperparameter tuning and clustering to optimize <b>NLP</b> analysis processes',
+        '<b>Collaborated</b> with <b>6 interns</b> to <b>deliver 10+</b> data charts from the Chancellor’s Office <b>database</b> by extracting institutional charts and metrics in <b>Microsoft Excel</b>. <b>Revealing</b> student demographic and enrollment trends.',
+        '<b>Resolved</b> <b>20+ Jira</b> tickets by prioritizing intake, clarifying requirements, to improve on time completion of tasks ',
       ],
       expanded: false,
     },
     {
-      date: 'May-September 2023',
-      title: 'TRC Consulting, Inc.',
+      date: 'February-April 2025',
+      title: 'Outamation (via Extern)',
       description: [
-        'Designed <b>30+ AWS Lambda Functions in AWS</b>, strategically leveraging <b>Lambda layers</b> to increase processing speed by <b>35% </b>and re-usability by <b>52%</b>, resulting in cost savings of <b>$1,000</b> per large scale deployment',
-        'Implemented <b>15+</b> serverless workflows using <b>AWS Step Functions</b>, seamlessly integrating <b>REST APIs </b>and rigorously tested with <b>Postman</b>, resulting in a <b>65%</b> reduction in execution time and enhanced operational efficiency',
-        'Crafted a <b>Spring Boot</b> application with a <b>Drools</b> logic engine, containerized it using <b>Docker</b>, and seamlessly deployed it on <b>AWS</b> using <b>EC2</b>, strategically allocating cloud resources to ensure enhanced scalability and reliability',
+        '<b>Built</b> a Retrievel Augumented Generation <b>(RAG)</b> pipeline in <b>Python</b> to answer queries from users regarding uploaded mortgage and lease documents. Incorparted <b>Ollama</b> models and <b>Gemini API</b> to automate the retrievel process.<b>Reducing</b> the need for manual document lookup.',
+        '<b>Improved</b> accruracy by 30% on mortage documents queries, by <b>tuning</b> the chunk size and embedding parameters to <b>reduce</b> latency',
+
       ],
       expanded: false,
     },
     {
-      date: 'May-September 2022',
-      title: 'Government Of Canada',
+      date: 'August 2023-June 2025',
+      title: 'Toberman Neighborhood Center',
       description: [
-        'Programmed and deployed a <b>Python-based data migration pipeline</b> on <b>Azure</b>, achieving a <b>50%</b> reduction in transfer time for <b>100+ terabytes</b> of critical business data',
-        'Centralized a <b>SQL database infrastructure</b> on <b>Azure</b>, enhancing data accessibility and security for <b>50+</b> stakeholders, resulting in a <b>30%</b> improvement in query performance across the organization',
+        '<b>Improved</b> math proficiency among middle and high school students. By tutoring <b>10 students</b> each week. <b>Delivering</b> individualized instruction, targeted practice, and step-by-step skill remediation',
+        '<b>Increased</b> students access to financial aid. By supporting over <b>10+</b> students in successfully submitting FAFSA applications. <b>Providing</b> assistance in step-by-step application guidance and preparing documents.',
       ],
       expanded: false,
     },
