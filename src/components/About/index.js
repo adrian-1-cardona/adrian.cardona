@@ -37,11 +37,11 @@ const About = () => {
                     </p>
                 </div>
 
-                
+
                 <div className = "stage-cube-cont">
                     <div className = "cubespinner"> 
                         <div className = "face1">
-                            <FontAwesomeIcon icon={faJavaScript} color="#f0db4f"/>
+                            <FontAwesomeIcon icon={faAmazon}/>
                         </div>
                         <div className = "face2">
                             <FontAwesomeIcon icon={faHtml5} color="#F06529"/>
