@@ -36,6 +36,7 @@ const About = () => {
                     <Link to="/about/dev" className="flat-button">DEVELOPMENT TOOLS</Link>
                     </p>
                 </div>
+
                 
                 <div className = "stage-cube-cont">
                     <div className = "cubespinner"> 
