@@ -36,7 +36,7 @@ const Contact = () => {
                                     <br/>
                                     Thank you for your interest in getting in touch! 
                                     <br/>
-                                    <br/>I value open communication and welcome any inquiries, feedback, or collaboration opportunities. Please don't hesitate to get in touch with me by filling out the contact form.
+                                    <br/>I value open communication and welcome any inquiries, feedback, or collaboration opportunities. Please don't hesitate to get in touch with me!
                                     <br/>
                                     <br/>
                                     <a target = "_blank" rel = "noreferrer" href = "https://www.linkedin.com/in/adrian-cardona/">
