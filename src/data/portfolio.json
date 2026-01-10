@@ -7,6 +7,12 @@
             "url": "https://adrian-1-cardona.github.io/gupptysitetest/"
         },
         {
+            "cover": "/portfolio/hero.png", 
+            "title": "One Book", 
+            "description": "JavaScript, HTML, CSS", 
+            "url": "https://onebook-iota.vercel.app"
+        },
+        {
             "cover": "/portfolio/DocPulse.png", 
             "title": "DocPulse", 
             "description": "TypeScript, JavaScript, CSS", 
@@ -36,6 +42,7 @@
             "description": "Python", 
             "url": "https://github.com/adrian-1-cardona/python-expesne-tracker"
         }
+
        
     ]
 }
