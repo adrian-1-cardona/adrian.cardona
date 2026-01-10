@@ -1,49 +1,49 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/McGill.png", 
+            "cover": "/portfolio/Guppty.png", 
             "title": "Guppty", 
             "description": "HTML, CSS, JavaScript", 
             "url": "https://adrian-1-cardona.github.io/gupptysitetest/"
         },
         {
-            "cover": "/portfolio/Empor.png", 
+            "cover": "/portfolio/DocPulse.png", 
             "title": "DocPulse", 
             "description": "TypeScript, JavaScript, CSS", 
             "url": "https://github.com/adrian-1-cardona/DocPulse"
         },
         {
-            "cover": "/portfolio/PLPredictor.png", 
+            "cover": "/portfolio/Netflix.png", 
             "title": "Netflix Stock Price Predictor", 
             "description": "Python,pytest, scikit-learn, Pandas, Numpy", 
             "url": "https://github.com/adrian-1-cardona/Netflix-Stock-Price-Predictor"
         },
         {
-            "cover": "/portfolio/FPL.png", 
+            "cover": "/portfolio/F1.png", 
             "title": "Formula One Grand Prix Predictor", 
             "description": "JavaScript, Python, CSS, HTML", 
             "url": "https://github.com/adrian-1-cardona/FormulaONE1"
         },
         {
-            "cover": "/portfolio/Chat.png", 
+            "cover": "/portfolio/CalmMind.png", 
             "title": "Calm Mind Chat Bot", 
             "description": "HTML, CSS, JavaScript", 
             "url": "https://github.com/adrian-1-cardona/CalmMind"
         },
         {
-            "cover": "/portfolio/Chat.png", 
+            "cover": "/portfolio/expensetrack.png", 
             "title": "Expense Tracker", 
             "description": "Python", 
             "url": "https://github.com/adrian-1-cardona/python-expesne-tracker"
         },
         {
-            "cover": "/portfolio/Chat.png", 
+            "cover": "/portfolio/expensetrack.png", 
             "title": "Expense Tracker", 
             "description": "Python", 
             "url": "https://github.com/adrian-1-cardona/python-expesne-tracker"
         },
         {
-            "cover": "/portfolio/Chat.png", 
+            "cover": "/portfolio/expensetrack.png", 
             "title": "Expense Tracker", 
             "description": "Python", 
             "url": "https://github.com/adrian-1-cardona/python-expesne-tracker"
