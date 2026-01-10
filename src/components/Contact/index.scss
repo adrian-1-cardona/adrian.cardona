@@ -1,5 +1,6 @@
 .contact-form{
     width: 100%; 
+    margin-top: 20px;
     
 
     ul {
@@ -32,29 +33,6 @@
         }
     }
 
-    input[type='text'], 
-    input[type='email'] { 
-        width: 100%; 
-        border: 0; 
-        background: #082230;
-        height: 50px; 
-        font-size: 16px; 
-        color: #fff;
-        padding: 0 20px; 
-        box-sizing: border-box;
-    }
-
-    textarea{ 
-        width: 100%; 
-        border: 0; 
-        background: #082230; 
-        height: 200px; 
-        font-size: 16px; 
-        color: #fff; 
-        padding: 20px; 
-        min-height: 150px; 
-        box-sizing: border-box; 
-    }
 
     .flat-button{
         color: #ffd700; 
