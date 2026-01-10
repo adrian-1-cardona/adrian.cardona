@@ -50,7 +50,7 @@ const Contact = () => {
                         <tr>
                             <td className="left-side">
                                 <h1>
-                                    <AnimatedLetters letterClass={letterClass} strArray = {"Contact me".split("")} idx = {25} />
+                                    <AnimatedLetters letterClass={letterClass} strArray = {"Contact me".split("")} idx = {15} />
                                 </h1>
                                 <p>
                                     <br/>
