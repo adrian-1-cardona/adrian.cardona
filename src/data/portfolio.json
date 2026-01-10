@@ -2,7 +2,7 @@
     "portfolio": [
         {
             "cover": "/portfolio/hero-bg.png", 
-            "title": "One Book", 
+            "title": "One Book Travel Itinerary ", 
             "description": "JavaScript, HTML, CSS", 
             "url": "https://onebook-iota.vercel.app"
         },
