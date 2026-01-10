@@ -39,7 +39,7 @@ const About = () => {
                 <div className = "stage-cube-cont">
                     <div className = "cubespinner"> 
                         <div className = "face1">
-                            <FontAwesomeIcon icon={faAmazon}/>
+                            <FontAwesomeIcon icon={faJavaScript} color="#f0db4f"/>
                         </div>
                         <div className = "face2">
                             <FontAwesomeIcon icon={faHtml5} color="#F06529"/>
