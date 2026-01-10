@@ -12,7 +12,6 @@ const TechList = () => {
     { name: "Jira", progress: 25, className: "jira-progress", years: 1 },
     { name: "Jupyter Notebooks", progress: 25, className: "jupyter-progress", years: 1 },
     { name: "Vite", progress: 25, className: "vite-progress", years: 1 },
-    {}
   ]);
 
   return (
