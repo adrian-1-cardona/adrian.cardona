@@ -2,52 +2,39 @@
     "portfolio": [
         {
             "cover": "/portfolio/McGill.png", 
-            "title": "Exam Scheduler", 
-            "description": "ReactJS, PostgreSQL, Spring Boot", 
-            "url": "https://mcgillscheduler.vercel.app/"
+            "title": "Guppty", 
+            "description": "HTML, CSS, JavaScript", 
+            "url": "https://adrian-1-cardona.github.io/gupptysitetest/"
         },
         {
             "cover": "/portfolio/Empor.png", 
-            "title": "Empor", 
-            "description": "NextJS, Prisma, Spring Boot", 
-            "url": "https://www.empor.ca"
+            "title": "DocPulse", 
+            "description": "TypeScript, JavaScript, CSS", 
+            "url": "https://github.com/adrian-1-cardona/DocPulse"
         },
         {
             "cover": "/portfolio/PLPredictor.png", 
-            "title": "PL Match Predictor", 
-            "description": "Python, Sci-kit Learn, Pandas", 
-            "url": "https://github.com/Erik-Cupsa/Soccer-Match-Predictor"
+            "title": "Netflix Stock Price Predictor", 
+            "description": "Python,pytest, scikit-learn, Pandas, Numpy", 
+            "url": "https://github.com/adrian-1-cardona/Netflix-Stock-Price-Predictor"
         },
         {
             "cover": "/portfolio/FPL.png", 
-            "title": "PremierZone", 
-            "description": "ReactJS, PostgreSQL, Spring Boot", 
-            "url": "https://premierzone.vercel.app/"
+            "title": "Formula One Grand Prix Predictor", 
+            "description": "JavaScript, Python, CSS, HTML", 
+            "url": "https://github.com/adrian-1-cardona/FormulaONE1"
         },
-        {
-            "cover": "/portfolio/JwtImage.png", 
-            "title": "Spring Security Tutorial", 
-            "description": "Spring Boot, JWT", 
-            "url": "https://youtu.be/uZGuwX3St_c?si=jIITQc20dXuGoOAP"
-        },
-        {
-            "cover": "/portfolio/GymTech.png", 
-            "title": "GymTech", 
-            "description": "ReactJS, PostgreSQL, Spring Boot", 
-            "url": "https://github.com/Erik-Cupsa/GymTech"
-        },
-
         {
             "cover": "/portfolio/Chat.png", 
-            "title": "StudySmartBot", 
-            "description": "ReactJS, NodeJS, Web Sockets", 
-            "url": "https://github.com/Erik-Cupsa/StudySmartBot"
-        }, 
-        {
-            "cover": "/portfolio/Jetpack.png", 
-            "title": "Super GTA Adventure", 
+            "title": "Calm Mind Chat Bot", 
             "description": "HTML, CSS, JavaScript", 
-            "url": "https://super-gta-adventure.vercel.app/"
+            "url": "https://github.com/adrian-1-cardona/CalmMind"
+        },
+        {
+            "cover": "/portfolio/Chat.png", 
+            "title": "Expense Tracker", 
+            "description": "Python", 
+            "url": "https://github.com/adrian-1-cardona/python-expesne-tracker"
         }
     ]
 }
