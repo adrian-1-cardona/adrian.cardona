@@ -1,15 +1,13 @@
 import Loader from "react-loaders"
 import "./index.scss"
 import AnimatedLetters from "../AnimatedLetters" 
-import { useEffect, useRef, useState } from "react"
-import emailjs from "@emailjs/browser"
+import { useEffect, useState } from "react"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons"
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons"
 
 const Contact = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const refForm = useRef()
 
     useEffect(() => {
         const timerId = setTimeout(() => {
