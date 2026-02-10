@@ -5,6 +5,14 @@ const Timeline = () => {
   const [events, setEvents] = useState([
 
     {
+      date: 'January 2025-Present',
+      title: 'Cal Poly Bailey College of Science and Mathematics',
+      description: [
+        '<b>Currently working on updating the website for Cal Poly\'s Bailey College of Science and Mathematics Department ',
+      ],
+      expanded: false,
+    },
+    {
       date: 'July 2025-Present',
       title: 'Foundation of California Community Colleges',
       description: [
