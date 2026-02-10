@@ -8,7 +8,7 @@ const Timeline = () => {
       date: 'January 2025-Present',
       title: 'Cal Poly Bailey College of Science and Mathematics',
       description: [
-        '<b>Currently working on updating the website for Cal Poly\'s Bailey College of Science and Mathematics Department ',
+        'Currently working on updating the website for Cal Poly\'s Bailey College of Science and Mathematics Department as a <b>Web Developer Intern</b>.',
       ],
       expanded: false,
     },
