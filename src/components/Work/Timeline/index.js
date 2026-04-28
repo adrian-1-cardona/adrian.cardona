@@ -5,10 +5,11 @@ const Timeline = () => {
   const [events, setEvents] = useState([
 
     {
-      date: 'January 2025-Present',
+      date: 'January 2026-Present',
       title: 'Cal Poly Bailey College of Science and Mathematics',
       description: [
-        'Currently working on updating the website for Cal Poly\'s Bailey College of Science and Mathematics Department as a <b>Web Developer Intern</b>.',
+        '<b>Automated</b> website migration audits for <b>1,000+</b> departmental subdomains by building a Python crawler that evaluated URLs against college-defined migration requirements.',
+        '<b>Improved</b> review efficiency across a <b>30,000+</b> subdomain college web ecosystem by replacing a manual audit workflow with a repeatable automated status-classification process.'
       ],
       expanded: false,
     },
