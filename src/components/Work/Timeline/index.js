@@ -6,7 +6,7 @@ const Timeline = () => {
 
     {
       date: 'January 2026-Present',
-      title: 'Cal Poly Bailey College of Science and Mathematics',
+      title: 'Cal Poly Bailey College of Science and Mathematics Web Development Intern',
       description: [
         '<b>Automated</b> website migration audits for <b>1,000+</b> departmental subdomains by building a Python crawler that evaluated URLs against college-defined migration requirements.',
         '<b>Improved</b> review efficiency across a <b>30,000+</b> subdomain college web ecosystem by replacing a manual audit workflow with a repeatable automated status-classification process.'
@@ -15,7 +15,7 @@ const Timeline = () => {
     },
     {
       date: 'July 2025-Present',
-      title: 'Foundation of California Community Colleges',
+      title: 'Foundation of California Community Colleges Research Intern',
       description: [
         '<b>Collaborated</b> with <b>6 interns</b> to <b>deliver 10+</b> data charts from the Chancellor’s Office <b>database</b> by extracting institutional charts and metrics in <b>Microsoft Excel</b>. <b>Revealing</b> student demographic and enrollment trends.',
         '<b>Resolved</b> <b>20+ Jira</b> tickets by prioritizing intake, clarifying requirements, to improve on time completion of tasks ',
@@ -24,7 +24,7 @@ const Timeline = () => {
     },
     {
       date: 'February-April 2025',
-      title: 'Outamation (via Extern)',
+      title: 'Outamation,Extern',
       description: [
         '<b>Built</b> a Retrievel Augumented Generation <b>(RAG)</b> pipeline in <b>Python</b> to answer queries from users regarding uploaded mortgage and lease documents. Incorparted <b>Ollama</b> models and <b>Gemini API</b> to automate the retrievel process.<b>Reducing</b> the need for manual document lookup.',
         '<b>Improved</b> accruracy by 30% on mortage documents queries, by <b>tuning</b> the chunk size and embedding parameters to <b>reduce</b> latency',
@@ -34,7 +34,7 @@ const Timeline = () => {
     },
     {
       date: 'August 2023-June 2025',
-      title: 'Toberman Neighborhood Center',
+      title: 'Toberman Neighborhood Center, College Corner Leader',
       description: [
         '<b>Improved</b> math proficiency among middle and high school students. By tutoring <b>10 students</b> each week. <b>Delivering</b> individualized instruction, targeted practice, and step-by-step skill remediation',
         '<b>Increased</b> students access to financial aid. By supporting over <b>10+</b> students in successfully submitting FAFSA applications. <b>Providing</b> assistance in step-by-step application guidance and preparing documents.',
